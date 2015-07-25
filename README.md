@@ -13,6 +13,8 @@ You should use the Github API to fetch the image and either cache those request 
     Example
 
         api.github.com/repos/moo-mou/logo/contents/_all/redis.png
+        
+Eventually, the logo collection should be substantial enough someone could just slurp all these into an elasticsearch or something to provide a logo API (that's the long term goal anyways).
 
 Contribution
 ===
