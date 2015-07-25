@@ -4,7 +4,7 @@ A manual collection of tech logos.
 
 Why?
 ===
-I use this to build my [resume](moo-mou/resume).
+I use this to build my [resume](http://www.moo-mou.com/).
 
 Cool. How do I use this?
 ===
@@ -12,7 +12,7 @@ You should use the Github API to fetch the image and either cache those request 
 
     Example
 
-        api.github.com/repos/moo-mou/logo/contents/database/redis.png
+        api.github.com/repos/moo-mou/logo/contents/_all/redis.png
 
 Contribution
 ===
