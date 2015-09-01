@@ -1,6 +1,6 @@
 What is this?
 ===
-A manual collection of tech logos.
+A manual collection of logos.
 
 Contribution
 ===
